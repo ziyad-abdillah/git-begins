@@ -1,0 +1,5 @@
+git clone https://github.com/ziyad-abdillah/git-begins.git
+
+git add .
+git commit -m "test"
+git push
