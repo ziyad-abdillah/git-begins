@@ -4,3 +4,5 @@ git add .
 git commit -m "test"
 git push
 git pull
+git branch +nom de la branch
+git checkout +nom de la branch
