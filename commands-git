@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 pp
+=======
+git clone https://github.com/ziyad-abdillah/git-begins.git
+
+git add .
+git commit -m "test"
+git push
+git pull
+>>>>>>> parent of 6e864e1 (mise a jour commands-git)
